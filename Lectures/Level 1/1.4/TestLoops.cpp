@@ -75,7 +75,7 @@ double ftp_II(double x_0, double tol, long maxiter)
 
 	if (counter < maxiter)
 	{
-		cout << "Method II has converged in " << counter << " iterations\n";
+		w
 	}
 	else
 	{
