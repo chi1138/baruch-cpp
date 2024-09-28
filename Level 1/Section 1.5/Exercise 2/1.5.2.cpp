@@ -1,5 +1,15 @@
 #include <stdio.h>
 
+/*
+Input argument type should be unsigned int.
+Return type should be long long.
+No need to check if i==1 -- that is implicit.
+The function should be named 'factorial'.
+Factorial should return the result, not printf it.
+It's up to the caller of the function to decide what to do with the result.
+*/
+
+
 int recursion(int num);
 
 int main()
